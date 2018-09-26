@@ -728,6 +728,14 @@ body.offcanvas {
     .services.color-6 .icon:after {
       border-color: #4054b2 transparent transparent transparent; }
 
+.servicesravi {
+height:160px
+}
+
+
+.servicesraviteja {
+height:330px
+}
 .progress-wrap h3 {
   font-size: 16px;
   font-family: "Quicksand", Arial, sans-serif;
@@ -836,6 +844,9 @@ body.offcanvas {
       @media screen and (max-width: 1200px) {
         .colorlib-feature .colorlib-icon i {
           font-size: 40px; } }
+      .newcontact {
+      margin-top:30px;
+      }
   .colorlib-feature .colorlib-text {
     padding-left: 120px;
     width: 100%; }
@@ -850,7 +861,7 @@ body.offcanvas {
       letter-spacing: 3px;
       text-transform: uppercase; }
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
-    margin-top: 30px; }
+     }
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
     color: #2c98f0;
     font-size: 40px; }
